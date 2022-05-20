@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://opensource.org/licenses/MIT)
 
+![Lorem Picsum](https://picsum.photos/200/300)
+
